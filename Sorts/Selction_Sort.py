@@ -22,10 +22,9 @@ def Selction_Sort(datas):
             if datas[j] < datas[min]:
                 min = j
 
-            if min!=i:
-                datas[i], datas[min] = datas[min], datas[i]
+        datas[i], datas[min] = datas[min], datas[i]
 
-            print(datas)
+        print(datas)
         print('---'*10)
     return datas
 
