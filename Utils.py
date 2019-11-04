@@ -45,4 +45,4 @@ _, datas_list = selectionSort(datas)
 # 绘图
 fig, ax = plt.subplots(figsize = (15,8))
 animator = animation.FuncAnimation(fig, plot_bar, frames=datas_list, interval=500)
-animator.save('aaa.gif')
+animator.save('Bubble_sort.gif')
