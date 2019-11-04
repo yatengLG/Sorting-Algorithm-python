@@ -15,6 +15,7 @@
 平均时间复杂度：
     O(n2)
 ```
+![Bubble_sort](Images/Bubble_Sort.gif)
 
 
 选择排序(Selction Sort)
@@ -32,7 +33,7 @@
     O(n2)
 ```
 
-![Selction_sort](Images/Selction_sort.gif)
+![Selction_sort](Images/Selction_Sort.gif)
 
 插入排序(Insertion Sort)
 
