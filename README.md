@@ -1,7 +1,7 @@
 # Sorting-Algorithm-python
 排序算法实现(基于python, 带动图展示)All Sorting-Algorithm  Implementation based on Python. (GIF display)  
 
-冒泡排序(Bubble Sort)
+## 冒泡排序(Bubble Sort)
 ```text
 基本思想:
     两个数比较大小，较大的数下沉，较小的数冒起来。
@@ -18,7 +18,7 @@
 ![Bubble_sort](Images/Bubble_Sort.gif)
 
 
-选择排序(Selction Sort)
+## 选择排序(Selction Sort)
 ```text
 基本思想：
     在长度为N的无序数组中，第一次遍历n-1个数，找到最小的数值与第一个元素交换；
@@ -35,16 +35,16 @@
 
 ![Selction_sort](Images/Selction_Sort.gif)
 
-插入排序(Insertion Sort)
+## 插入排序(Insertion Sort)
 
-希尔排序(Shell Sort)
+## 希尔排序(Shell Sort)
 
-快速排序(Quick Sort)
+## 快速排序(Quick Sort)
 
-归并排序(Merge Sort)
+## 归并排序(Merge Sort)
 
-堆排序(Heap Sort)
+## 堆排序(Heap Sort)
 
-基数排序(Radix Sort)
+## 基数排序(Radix Sort)
 
 未写完,存在很多错误,写完再看
